@@ -16,3 +16,6 @@ A robot that is capable of penetration testing
 
 ## Operating System
 it is recommended to use a penetration test oriented distro such as [ParrotOS](https://www.parrotsec.org/) or [Kali Linux](https://www.kali.org/) (I used ParrotOS)
+
+- ParrotOS [Download](https://www.kali.org/get-kali/#kali-arm](https://www.parrotsec.org/download/)
+- Kali Linux [Download](https://www.kali.org/get-kali/#kali-arm)
