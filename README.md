@@ -19,3 +19,34 @@ it is recommended to use a penetration test oriented distro such as [ParrotOS](h
 
 - ParrotOS [Download](https://www.parrotsec.org/download/)
 - Kali Linux [Download](https://www.kali.org/get-kali/#kali-arm)
+
+## Software
+
+Building & Installation
+=======================
+
+You must have cmake installed. You will also probably want to have a development
+version of libjpeg installed. I used libjpeg8-dev. e.g.
+
+    sudo apt-get install cmake libjpeg8-dev
+
+If you do not have gcc (and g++ for the opencv plugin) you may need to install those.
+
+    sudo apt-get install gcc g++
+
+Simple compilation
+------------------
+
+This will build and install all plugins that can be compiled.
+
+    cd mjpg-streamer-experimental
+    make
+    sudo make install
+    
+By default, everything will be compiled in "release" mode. If you wish to compile
+with debugging symbols enabled, you can do this:
+
+    cd mjpg-streamer-experimental
+    make distclean
+    make CMAKE_BUILD_TYPE=Debug
+    sudo make install
