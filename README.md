@@ -16,6 +16,7 @@ A robot that is capable of penetration testing
 - Some M3 nuts & bolts
 
 <img src="https://content.instructables.com/FOU/SD48/KID4YXRA/FOUSD48KID4YXRA.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=2c2ae9a7eac53b9a71254b45646aac55" align="center" alt="Schematica" title="Schematica">
+<img src="https://content.instructables.com/F3Z/X908/KIHF91NG/F3ZX908KIHF91NG.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=2e12137982643c2fd41208af30ad877d">
 
 ## Operating System
 it is recommended to use a penetration test oriented distro such as [ParrotOS](https://www.parrotsec.org/) or [Kali Linux](https://www.kali.org/) (I used ParrotOS)
