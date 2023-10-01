@@ -13,3 +13,6 @@ A robot that is capable of penetration testing
 - 1 x Toggle Switch
 - Some Jumper wires
 - Some M3 nuts & bolts
+
+## Operating System
+it is recommended to use a penetration test oriented distro such as [ParrotOS](https://www.parrotsec.org/) or [Kali Linux](https://www.kali.org/) (I used ParrotOS)
