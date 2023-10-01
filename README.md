@@ -25,3 +25,7 @@ it is recommended to use a penetration test oriented distro such as [ParrotOS](h
 for the web server I used apache2
 
     sudo apt install apache2
+    
+and I used shellinabox for the terminal connected to the web interface so I have all full control of the device from the web browser
+
+    sudo apt install shellinabox
