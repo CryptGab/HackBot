@@ -15,7 +15,7 @@ A robot that is capable of penetration testing
 - Some Jumper wires
 - Some M3 nuts & bolts
 
-<img src="https://content.instructables.com/FOU/SD48/KID4YXRA/FOUSD48KID4YXRA.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=2c2ae9a7eac53b9a71254b45646aac55" align="center" alt="Schematica" title="Schematica">
+<img src="https://content.instructables.com/FOU/SD48/KID4YXRA/FOUSD48KID4YXRA.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=2c2ae9a7eac53b9a71254b45646aac55">
 <img src="https://content.instructables.com/F3Z/X908/KIHF91NG/F3ZX908KIHF91NG.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=2e12137982643c2fd41208af30ad877d">
 
 ## Operating System
@@ -32,3 +32,6 @@ for the web server I used apache2
 and I used shellinabox for the terminal connected to the web interface so I have all full control of the device from the web browser
 
     sudo apt install shellinabox
+    
+finally I used [mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer#building--installation) for the see the webcam from the web interface
+
