@@ -4,6 +4,7 @@ A robot that is capable of penetration testing
 ## Requisites
 - 1 x Raspberry Pi 3B =>
 - 1 x Micro SD card 8Gb =>
+- 1 x WiFi USB adapter
 - 1 x WebCam
 - 1 x Power Bank
 - 1 x PCA9685 16 Channel 12 Bit PWM Servo Driver
