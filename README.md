@@ -35,3 +35,6 @@ and I used shellinabox for the terminal connected to the web interface so I have
     
 finally I used [mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer#building--installation) for the see the webcam from the web interface
 
+optional install screen to have terminals in the background
+
+    sudo apt install screen
